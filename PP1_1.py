@@ -8,7 +8,7 @@ def q2():
   print(5)
 
 def q3():
-  print("Help me!")
+  print(" Help me!")
 
 def q4():
   print("3 x 3 = 9")
