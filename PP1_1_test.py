@@ -1,6 +1,6 @@
 import os.path
 import sys
-from PP1 import *
+from PP_1 import *
 
 def test_q1(capsys):
 
